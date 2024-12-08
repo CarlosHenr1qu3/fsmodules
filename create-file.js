@@ -14,7 +14,7 @@ export function createFile(message) {
     console.log("Arquivo criado com sucesso!");
   });
 
-  console.log("Arquivo criado com sucesso!"); // Exibe no console se não houver erro
+  // console.log("Arquivo criado com sucesso!"); // Exibe no console se não houver erro
 }
 
 
